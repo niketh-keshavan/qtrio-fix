@@ -1,2 +1,0 @@
-def untested() -> None:
-    pass
